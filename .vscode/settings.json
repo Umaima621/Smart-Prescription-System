@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.referencedLibraries": [
+        "lib/mssql-jdbc.jar.jar",
+        "lib/javafx-sdk-17.0.10/lib/*.jar"
+    ]
+}
